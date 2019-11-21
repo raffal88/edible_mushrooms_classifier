@@ -1,4 +1,4 @@
-# edible mushrooms classifier
+# Edible mushrooms classifier
 Mushrooms can be classified as edible, inedible and poisonous. Thirty the most common mushroom species was involded.
 Data set size was about 2900 images.
 
