@@ -1,9 +1,9 @@
 # Edible mushrooms classifier
-Mushrooms can be classified as edible, inedible and poisonous. Thirty the most common mushroom species was involded.
-Data set size was about 2900 images.
+The mushrooms can be classified as edible, inedible and poisonous. Thirty the most common mushroom species was involded.
+Data set size was about 2900 images. The final accuracy was equal 96,4%.
 
 ## Technologies
-Repo is created with:  
+The Repo is created with:  
 Python             3.7.4   
 fastai             1.0.58      
 matplotlib         3.1.1      
